@@ -29,4 +29,4 @@ If you're experiencing any of the following:
 
 Feel free to [open an issue](https://github.com/alb0084/cfai-releases/issues) describing the problem.
 
-For all other issues related to CFAI's functionality or features, use the main [CFAI repository](https://github.com/tuo-username/cfai).
+For all other issues related to CFAI's functionality or features, use this repo [CFAI repository](https://github.com/alb0084/cfai-releases) to report problems.
